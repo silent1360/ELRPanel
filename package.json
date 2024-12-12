@@ -1,8 +1,8 @@
 {
-  "name": "bpb-worker-panel",
+  "name": "EldenRingPanle",
   "version": "2.7.2",
   "author": {
-    "name": "Bia Pain Bache"
+    "name": "EldenRingPanle"
   },
   "devDependencies": {
     "wrangler": "latest",
